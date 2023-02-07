@@ -1,0 +1,28 @@
+{
+  "name": "coin-collector",
+  "version": "1.0.0",
+  "description": "Coin Collector project",
+  "main": "coins.js",
+ "scripts": {
+  "test": "jest --watch-all"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolinaki/coin-collector.git"
+  },
+  "keywords": [
+    "coin",
+    "collector",
+    "MultiVerse",
+    "Week5"
+  ],
+  "author": "Karolinaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolinaki/coin-collector/issues"
+  },
+  "homepage": "https://github.com/karolinaki/coin-collector#readme",
+  "dependencies": {
+    "jest": "^29.4.1"
+  }
+}
